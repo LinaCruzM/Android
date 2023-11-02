@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BasedatosSQLite</string>
+    <string name="tvTitulo">Gestión de usuario</string>
+    <string name="etDocumento">Ingrese el Documento</string>
+    <string name="etUsuario">Ingrese el Usuario</string>
+    <string name="etNombres">Ingrese los Nombres</string>
+    <string name="etApellidos">Ingrese los Apellidos</string>
+    <string name="etContraseña">Ingrese la Contraseña</string>
+
+    <!-- Botones -->
+    <string name="btnRegistrar">Registro</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnListar">Listar</string>
+    <string name="btnLimpiar">Limpiar</string>
+
+</resources>
